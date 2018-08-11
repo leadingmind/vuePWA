@@ -10,7 +10,9 @@
   "dependencies": {
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.16",
-    "vuex": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.10",
