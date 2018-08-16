@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/vuePWA/js/chunk-vendors.80aa5772.js"
   },
   {
-    "revision": "e8128a65945789688438",
-    "url": "/vuePWA/js/app.e8128a65.js"
+    "revision": "50a7bc4f9c7d8a751d76",
+    "url": "/vuePWA/js/app.50a7bc4f.js"
   },
   {
-    "revision": "9dacd662e97927faa117d7331eca0318",
+    "revision": "229c4262b7a68c7781d843b4b4c37961",
     "url": "/vuePWA/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/vuePWA/css/chunk-vendors.c928286c.css"
   },
   {
-    "revision": "e8128a65945789688438",
+    "revision": "50a7bc4f9c7d8a751d76",
     "url": "/vuePWA/css/app.b59ba0df.css"
   }
 ];
