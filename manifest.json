@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/vuePWA/index.html",
+  "start_url": "/vuePWA/#/",
   "display": "standalone",
   "background_color": "#883DBB",
   "theme_color": "#4DBA87"
